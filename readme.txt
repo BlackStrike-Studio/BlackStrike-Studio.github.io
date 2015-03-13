@@ -32,9 +32,6 @@ htmlguide.txt
 - Includes the guide for a website, includign links to all scripts/plugins/addons that are needed. Simply Copy-Past into new HTML file
   and insert information as needed
 
-scriptlink.txt
-- Holds links to up-to-date scripts/plugins/addons hosted online. Useful if not stored directly on server
-
 currentscript.txt
 - Tells what current scripts/plugins/addons are used (Including Version if stored locally)
 
